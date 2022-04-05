@@ -3,4 +3,4 @@ project(Udemy C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Projects/basics.c)
+add_executable(Projects/basics.)
