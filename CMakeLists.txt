@@ -10,3 +10,4 @@ add_executable(my_name Projects/Basics/my_name.c)
 add_executable(reading_input Projects/Basics/reading_input.c)
 
 add_executable(overview Projects/varAndData/overview.c)
+add_executable(perimeterAndArea Projects/varAndData/areaRectangle.c)
