@@ -11,6 +11,9 @@
  * The snake case (ex_var) and Camel case (exVar) should be used to format the names
  */
 
+
+#include <stdio.h>
+
 /*
  * #Data types
  * A data type represents a type of data which you can process using your program
@@ -22,12 +25,11 @@
  * char (chars)
  * void (no value)
  */
-#include <stdio.h>
-
-int main(){
+int dataTypes(){
     int integer = 3;
     float floatNumber = 3.56;
     double doubleNumber = 3.5646523632;
 
     printf("Int: %d\nFloat: %f\nDouble: %lf", integer, floatNumber, doubleNumber);
 }
+
