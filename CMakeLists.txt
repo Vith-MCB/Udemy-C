@@ -11,3 +11,5 @@ add_executable(reading_input Projects/Basics/reading_input.c)
 
 add_executable(overview Projects/varAndData/overview.c)
 add_executable(perimeterAndArea Projects/varAndData/areaRectangle.c)
+
+add_executable(overviewOperators Projects/operators/ovwOperators.c)
