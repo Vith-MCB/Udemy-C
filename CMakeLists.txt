@@ -13,3 +13,4 @@ add_executable(overview Projects/varAndData/overview.c)
 add_executable(perimeterAndArea Projects/varAndData/areaRectangle.c)
 
 add_executable(overviewOperators Projects/operators/ovwOperators.c)
+add_executable(minutesToDaysAndYears Projects/operators/minutesToDaysAndYears.c)
