@@ -111,16 +111,23 @@ int logicalOperators() {
     return 0;
 }
 
+/*
+ * At the main, the functions that were creates are called.
+ */
 int main(){
+    //Function that displays examples of the math operators
     printf("\nDomonstration of the Math operators:\n");
     mathOperators();
 
+    //Function that displays examples of the assignement operators
     printf("\nDomonstration of the Assignement operators:\n");
     assignementOperators();
 
+    //Function that displays examples of the Relational operators
     printf("\nDomonstration of the Relational operators:\n");
     relationalOperators();
 
+    //Function that displays examples of the logigal operators
     printf("\nDomonstration of the Logical operators:\n");
     logicalOperators();
 }
