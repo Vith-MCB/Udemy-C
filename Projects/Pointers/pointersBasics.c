@@ -8,6 +8,10 @@
  * pNumber = &variable1=10; (the pointer stores the adress from the variable)
  * printf("%d", *pNumber); (prints the "variable1" value = 10)
  * printf("%d", pNumber); (prints the adress)
+ *
+ * #Constant pointers:
+ * const int *pointer (Value cannot be changed)
+ * int *const pointer (Pointer address cannot be changed)
 */
 
 //int main(){
