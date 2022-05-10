@@ -16,3 +16,4 @@ add_executable(overviewOperators Projects/operators/ovwOperators.c)
 add_executable(minutesToDaysAndYears Projects/operators/minutesToDaysAndYears.c)
 
 add_executable(pointersBasics Projects/Pointers/pointersBasics.c)
+add_executable(pointerArrays Projects/Pointers/pointers&Arrays.c)
